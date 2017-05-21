@@ -1,0 +1,7 @@
+#Fri May 19 20:26:23 CEST 2017
+base.0=/Users/Paco/AndroidStudioProjects/MessageInaBottle/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_520fd8d6c5a7ad12a28f1bbbd116afe37e40edcf
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/Paco/AndroidStudioProjects/MessageInaBottle/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4929f49fcb0a2b3081b807d41995927cb034092e/classes.dex
+base.1=/Users/Paco/AndroidStudioProjects/MessageInaBottle/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4929f49fcb0a2b3081b807d41995927cb034092e
+file.0=/Users/Paco/AndroidStudioProjects/MessageInaBottle/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_520fd8d6c5a7ad12a28f1bbbd116afe37e40edcf/classes.dex

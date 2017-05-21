@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Paco/AndroidStudioProjects/MessageInaBottle/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/Paco/AndroidStudioProjects/MessageInaBottle/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Paco/AndroidStudioProjects/MessageInaBottle/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/Users/Paco/AndroidStudioProjects/MessageInaBottle/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]
